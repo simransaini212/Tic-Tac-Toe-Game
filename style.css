@@ -32,7 +32,7 @@ body
     width: 18vmin;
     border-radius: 1rem;
     background-color: #cbc0d3;
-    border: none;
+/*     border: none; */
     box-shadow: 0 0 1rem rgb(0, 0, 0.1);
     font-size: 15vmin;
     color: #3c6e71;
